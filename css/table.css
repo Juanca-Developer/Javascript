@@ -1,0 +1,106 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+img{
+    
+    width: 40px;
+}
+table {
+    text-align: center;
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 1000px;
+}
+
+table tr th {
+    background-color: #41c50d;
+    color: #FFF;
+    padding: 22px;
+    font-weight: normal;
+    border-right: 1px solid #22201f;
+}
+
+table .price td {
+    padding: 13px;
+    font-size: 50px;
+    color: #141413;
+    font-weight: 600;
+    border-right: 1px solid #0f0f0f;
+}
+
+table .price sup {
+    color: #130101;
+    font-size: 19px;
+    font-weight: 700;
+    margin: 0 5px;
+}
+
+table .price sub {
+    font-size: 13px;
+    color: #AAAAAF;
+    margin-left: -25px;
+}
+
+table .price,
+table .traffic,
+table .account,
+table .ip,
+table .btn {
+    background-color: #FAFAFA;
+}
+
+table .space,
+table .email,
+table .data,
+table .domain {
+    background-color: #F7F7F7;
+}
+
+table .space td,
+table .traffic td,
+table .email td,
+table .account td,
+table .data td,
+table .ip td,
+table .domain td,
+table .btn td{
+    padding: 18px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #696969;
+    border-right: 1px solid #0a0a0a;
+}
+
+table .space td:first-of-type,
+table .traffic td:first-of-type,
+table .email td:first-of-type,
+table .account td:first-of-type,
+table .data td:first-of-type,
+table .ip td:first-of-type,
+table .domain td:first-of-type {
+    color: #111111;
+    font-weight: 700;
+}
+
+table .btn td button {
+    background-color: #333333;
+    color: #FFF;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+table .btn td:nth-of-type(4) button {
+    background-color: #84cf0b
+}
+table .main{
+
+    font-size: 20px;
+    
+
+
+}
+
